@@ -42,24 +42,11 @@ Embedded-Programmierung zur Auswertung von Sensoren
 
 Datenauswertung und Unterstützung bei Produktentwicklung
 
-Ausbildung
-
-Master of Science – Mechatronik und Informationstechnik
-Karlsruher Institut für Technologie (KIT), 2018 – 2021
-Masterarbeit: Einflussanalyse des Pressens von Wicklungen elektrischer Maschinen (Note: 1,7)
-
-Bachelor of Science – Mechatronik und Informationstechnik
-Karlsruher Institut für Technologie (KIT), 2012 – 2018
-Bachelorarbeit: Messung von Anwenderkräften mittels faseroptischer Sensoren (Note: 1,7)
 
 GitHub-Projekte
 
 Automated Test Bench (Beckhoff + LabVIEW)
 Modularer Prüfstand für elektronische Systeme
-Projektlink
-
-AI-assisted PLC Debugging Tool
-Python-Tool zur Analyse und Optimierung von SPS-Code
 Projektlink
 
 Sensor Data Analyzer (Embedded + Python)
